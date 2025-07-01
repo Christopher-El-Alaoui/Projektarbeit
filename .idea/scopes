@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DependencyValidationManager">
+    <scope name="dont format" pattern="file[pom.customer.sap-pi]:*/||file[pom.customer.sap-pi.as2]:*/||file[pom.customer.sap-pi.as2.adapter-http]:*/||file[customer.sap-pi.as2.adapter-http.default]:*/||file[pom.customer.sap-pi.as2.cryptmodule]:*/||file[customer.sap-pi.as2.cryptmodule.default]:*/||file[pom.customer.sap-pi.as2.util]:*/||file[customer.sap-pi.as2.util.default]:*/||file[pom.customer.sap-pi.corweb-post-adapter]:*/||file[customer.sap-pi.corweb-post-adapter.default]:*/||file[pom.customer.sap-pi.edifact-adapter]:*/||file[pom.customer.sap-pi.edifact-adapter-module-as2-deliver]:*/||file[customer.sap-pi.edifact-adapter-module-as2-deliver.default]:*/||file[pom.customer.sap-pi.edifact-adapter-module-as2-worker]:*/||file[customer.sap-pi.edifact-adapter-module-as2-worker.default]:*/||file[customer.sap-pi.edifact-adapter.default]:*/||file[pom.customer.sap-pi.edifact-validation-templates]:*/||file[customer.sap-pi.edifact-validation-templates.default]:*/||file[pom.customer.sap-pi.mattachtodir]:*/||file[customer.sap-pi.mattachtodir.default]:*/||file[pom.customer.sap-pi.payloadswapper]:*/||file[customer.sap-pi.payloadswapper.default]:*/||file[product.corweb-post-adapter]:*/" />
+  </component>
+</project>
